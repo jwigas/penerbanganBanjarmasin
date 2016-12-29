@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 30 10:23:14 2016
 
-@author: lenovo 8
+@author: Jediyanu Wigas Tu'u
 """
 
 from mpl_toolkits.basemap import Basemap
